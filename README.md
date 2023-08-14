@@ -1,4 +1,4 @@
-#AirBnB Clone
+# AirBnB Clone Console
 
 ![Project Logo](AirBnB_Logo.png)
 
@@ -17,6 +17,10 @@ The AirBnB Clone Project is an educational project that mimics the core function
    Clone the repository:
    ```
    git clone https://github.com/VloneMe/AirBnB_clone
+   ```
+## Within a directory Open Terminal and run
+   ```
+   ./console.py
    ```
 
 ## Create an instance:
