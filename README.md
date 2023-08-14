@@ -1,8 +1,11 @@
-# AirBnB_clone
+#AirBnB Clone
 
-Welcome to the AirBnB Clone Project repository! This project is a replica of the popular Airbnb platform, designed to help you learn and practice various programming concepts. Whether you're a beginner or an experienced developer, this project provides a great opportunity to work on a real-world application.
+![Project Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%[…]fe&opi=89978449&ved=0CBEQjRxqFwoTCPCS5sz82IADFQAAAAAdAAAAABAE)
+
+AirBnB Clone is a project which a replica to the AirBnB application aiming to equip learnes with various concept such as console, data serialization/deserialization, API development, Backend and Froend concepts using python.
 
 ## About
+
 The AirBnB Clone Project is an educational project that mimics the core functionality of Airbnb. It includes various classes such as User, State, City, Amenity, Place, and Review, each with its own attributes and relationships.
 ## Features
 - Create, update, delete, and display instances of different classes
