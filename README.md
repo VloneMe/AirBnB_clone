@@ -14,42 +14,50 @@ The AirBnB Clone Project is an educational project that mimics the core function
 - Command-line interface for interaction
 
 ## Getting Started
-1. Clone the repository:
-   ```bash
+   Clone the repository:
+   ```
    git clone https://github.com/VloneMe/AirBnB_clone
+   ```
 
 ## Create an instance:
    ```
    (hbnb) create User
+   ```
 
 ## Show instance details:
   ```
   (hbnb) show User 1234-5678-9012
+  ```
 
 ## Update an instance attribute:
    ```
    (hbnb) update User 1234-5678-9012 first_name John
+   ```
 
 ## Delete an instance:
    ```
    (hbnb) destroy User 1234-5678-9012
+   ```
 
 ## List all instances of a class:
    ```
    (hbnb) User.all()
+   ```
 
 ## Count the number of instances of a class:
    ```
    (hbnb) User.count()
+   ```
 
 ## Update an instance using a dictionary:
    ```
    (hbnb) update User 1234-5678-9012 {"last_name": "Doe", "age": 30}
+   ```
 
 ## Exit the console:
    ```
    (hbnb) quit
-
+   ```
 
 ## AUTHORS
 KisingiMichael <kisingimichael12@gmail.com>  
