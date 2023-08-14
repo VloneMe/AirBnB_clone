@@ -87,7 +87,7 @@ class HBNBCommand(cmd.Cmd):
         if key in all_objs:
             print(all_objs[key])
         else:
-            print("** no instance found **")
+            print("** class doesn't exist **")
 
     def do_destroy(self, arg):
         """
