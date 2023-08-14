@@ -86,4 +86,3 @@ class BaseModel:
         dict_instance["created_at"] = self.created_at.isoformat()
         dict_instance["updated_at"] = self.updated_at.isoformat()
         return dict_instance
-
