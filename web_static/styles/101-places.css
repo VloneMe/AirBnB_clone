@@ -2,7 +2,7 @@
 
 .places {
     position:relative;
-    justify-content: center;
+    text-align: center;
 }
 
 .places article {
