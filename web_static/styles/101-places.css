@@ -2,7 +2,7 @@
 
 .places {
     position:relative;
-    text-align: center;
+    justify-content: center;
 }
 
 .places article {
@@ -89,7 +89,6 @@
 }
   
 .description {
-    padding-top:px;
     text-align: left;
 }  
 
@@ -120,8 +119,6 @@
 
 .amenities li,
 .reviews li {
-  /* display: flex; */
-  align-items: left;
   margin-bottom: 10px;
   text-align: left;
 }

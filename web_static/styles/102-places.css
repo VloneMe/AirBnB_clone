@@ -89,7 +89,6 @@
 }
   
 .description {
-    padding-top:px;
     text-align: left;
 }  
 
@@ -120,8 +119,6 @@
 
 .amenities li,
 .reviews li {
-  /* display: flex; */
-  align-items: left;
   margin-bottom: 10px;
   text-align: left;
 }
@@ -198,10 +195,6 @@
     .number_rooms img,
     .number_bathrooms img {
       margin-top: 0;
-    }
-  
-    .user {
-      justify-content: float-start;
     }
   }
 
